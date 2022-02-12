@@ -5,7 +5,7 @@
 
 ## We hope you love City Scout as much as we do! Happy Travels!
 
-### Click this link to check out City Scout: https://dylank641.github.io/group-project1/
+### Click this link to check out City Scout: https://patrickaregan.github.io/city-scout/
 
 ![image](./assets/images/home-page.png)
 
